@@ -1,0 +1,19 @@
+{
+  "name": "ALLImage_10epoch_focal__epoch8",
+  "resume_training": false,
+  "old_ckpt_name": "ALLImage_10epoch",
+
+  "batch_size": 4,
+  "learning_rate": 0.001,
+  "momentum": 0.9,
+  "lr_decay_every": 10,
+  "max_epochs": 10,
+  "save_every": 2,
+
+  "use_bn": true,
+  "use_npy": false,
+  "frame_range": 100,
+
+  "cls_threshold": 0.2,
+  "nms_iou_threshold": 0.1
+}

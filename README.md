@@ -18,16 +18,18 @@ Predictions
 Output of the final layer
 ![Output](Figures/activation_map_1.png)
 
-Credits
+## Credits
 Project Contributors
+* Philip Huang
+* Allan Liu 
 
-Philip Huang
-Allan Liu
 Paper Citation below
-
+```
 
 
 @inproceedings{yang2018pixor,
   title={PIXOR: Real-Time 3D Object Detection From Point Clouds},
   author={Yang, Bin and Luo, Wenjie and Urtasun, Raquel}
 }
+```
+
